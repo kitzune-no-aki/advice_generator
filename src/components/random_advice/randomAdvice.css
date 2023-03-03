@@ -1,0 +1,34 @@
+.adviceContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 2em;
+}
+
+.adviceButton {
+    height: 2em;
+    width: 8em;
+    margin: 1em;
+    background-color: #2B3C59;
+    border: 0.2em solid #ffedd8;
+    color: #ffedd8;
+    border-radius: 8px;
+}
+
+.advicesNotVisible{
+
+}
+.advicesVisible {
+    margin: 1em;
+    text-align: center;
+    max-width: 500px;
+    padding: 5em;
+    border: solid #ffedd8;
+    background-color: #2B3C59;
+    color: #ffedd8;
+    border-radius: 8px;
+}
+
+.adviceH{
+    color: #ffedd8;
+}
